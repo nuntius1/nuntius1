@@ -9,5 +9,3 @@ nuntius1/nuntius1 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-This repository is intented for those working with STATA to handle ICD codes from hospital adminstrative data (e.g., DAD, NACRS, and CVSD) in Canada. 
-Because ICD codes differently change in Canada by province and year, it can be difficult cleaning and standiziing your data.
